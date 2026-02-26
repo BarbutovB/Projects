@@ -1,0 +1,33 @@
+# Simple Food Ordering System (Python)
+
+A clean and efficient terminal-based application that simulates a restaurant's Point of Sale (POS) system. This project showcases how to manage data using Python dictionaries and handle user interaction through loops.
+
+## 🛠️ How It Works
+1. **Menu Presentation**: The script displays a preset menu with items and their prices in **Euros**.
+2. **Interactive Ordering**: The user is prompted to enter the name of the food they want.
+3. **Smart Input**: Uses `.capitalize()` to ensure that "burger", "Burger", and "BURGER" are all recognized correctly.
+4. **Exit Logic**: The process continues until the user types **'done'**.
+5. **Validation**: If an item is not in the menu, the script notifies the user and asks again.
+6. **Final Receipt**: Generates a summary of all items ordered and calculates the total bill.
+
+## 💻 Technical Highlights
+* **Data Structures**: Uses a `dictionary` for the menu and a `list` of tuples for the orders.
+* **Flow Control**: Implements a `while True` loop with `break` and `continue` statements for smooth navigation.
+* **List Comprehension**: Calculates the total sum efficiently in a single line of code.
+
+## 📋 Example Usage
+```text
+--- Welcome to our Shop ---
+Menu:
+Burger - 4 euros
+Hotdog - 3 euros
+...
+What food would you like? (type 'done' to finish): Pizza
+How many Pizzas do you want? 2
+What food would you like? (type 'done' to finish): done
+
+--- Your Order Summary ---
+Pizza x 2
+-------------------------
+Your total is: 36 euros
+Thank you for your order!
