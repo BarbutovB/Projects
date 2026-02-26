@@ -1,0 +1,13 @@
+# Secure Password Generator
+
+A lightweight Python tool that creates strong, randomized passwords to enhance digital security.
+
+## How it Works
+* **Randomization**: Uses Python's `random` module to ensure unpredictability.
+* **Character Diversity**: Combines uppercase/lowercase letters, digits, and special symbols.
+* **Custom Length**: Allows the user to specify exactly how long the password should be.
+
+## Technical Skills
+* **String Manipulation**: Working with the `string` library for character sets.
+* **Loops and Comprehensions**: Efficiently building strings using Pythonic syntax.
+* **User Input**: Handling dynamic data from the console.
