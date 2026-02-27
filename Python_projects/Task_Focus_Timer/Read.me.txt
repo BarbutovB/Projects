@@ -1,0 +1,19 @@
+# Focus Task Timer
+
+A simple Python-based countdown timer designed to help with productivity and time management (Pomodoro style).
+
+## Features
+* **Custom Task Labeling**: Name the task you are focusing on.
+* **Dynamic Countdown**: Displays a real-time countdown in the terminal.
+* **Overwriting Output**: Uses `\r` to update the time on a single line instead of flooding the console.
+
+## How to Run
+1. Run `python task_timer.py`.
+2. Enter your task name (e.g., "Coding").
+3. Set the duration in minutes.
+4. Stay focused until the bell rings!
+
+## Technical Skills
+* **Time Module**: Using `time.sleep()` for pacing.
+* **Math Logic**: Using `divmod()` to convert total seconds into MM:SS format.
+* **Console Formatting**: Using escape characters for a cleaner UI.
