@@ -1,19 +1,41 @@
-# My Projects 🚀
+# My Python Portfolio 🚀
 
-Welcome to my portfolio! Here is a collection of different projects I've built to practice.
+Welcome to my project hub! This repository tracks my journey through Python programming, focusing on clean code, efficient data structures, and practical automation.
 
-## 🛠 Project Showcase
+## 📂 Project Categories
 
-| # | Project Name | Description | Key Tech Stack |
-|:---|:---|:---|:---|
-| 1 | **Dictionary Calculator** | Smart calculator using dictionary mapping instead of long if-else chains. | Python, DRY Principle |
-| 2 | **RPG Inventory & Shop** | Game inventory simulation with buying/selling mechanics and balance tracking. | Data Structures, Logic Flow |
-| 3 | **Secure Pass Generator** | Generates high-entropy passwords with custom complexity settings. | Randomization, Strings |
-| 4 | **Student Grade Tracker** | Records student performance and calculates weighted averages. | Lists, Math Operations |
-| 5 | **Simple Task Manager** | CLI application for creating, tracking, and managing daily to-do lists. | CRUD, CLI |
-| 6 | **Guess A Number Game** | Classic logic game with difficulty levels and input validation. | Loops, Conditionals |
-| 7 | **Task Focus Timer** | A Pomodoro-style productivity tool for time management. | Time Module, UI |
-| 8 | **ASCII Art Generator** | Converts plain text into stylized visual ASCII characters. | String Manipulation |
-| 9 | **Food Order System** | Streamlined system for menu selection and automated billing. | Dictionaries, Input Handling |
-| 10 | **Voice Logger** | (Work in progress) Focused on handling audio input and data logging. | Audio Libraries |
-| 11 | **Rock Paper Scissors** | Implementation of the classic game with score tracking. | Logic, Randomization |
+### 🧠 Logic & Data Processing
+*Focus on dictionaries, lists, and mathematical algorithms.*
+
+| Project Name | Description | Key Tech |
+|:---|:---|:---|
+| **Dictionary Calculator** | Smart calculator using mapping instead of long if-else chains. | Python, DRY |
+| **Student Grade Tracker** | Records performance and calculates weighted averages. | Math, Lists |
+| **Word Analyzer** | Deep text analysis to count word frequency and clean punctuation. | Strings, Sorting |
+| **Digital Poll System** | Real-time voting tracker with percentage calculations. | Data Aggregation |
+
+### 🎮 Gaming & Simulations
+*Interactive logic and state management.*
+
+| Project Name | Description | Key Tech |
+|:---|:---|:---|
+| **RPG Inventory & Shop** | Inventory system with buying/selling mechanics. | Data Structures |
+| **Rock Paper Scissors** | Classic game implementation with AI and score tracking. | Logic, Random |
+| **Guess A Number** | Logic game with difficulty levels and input validation. | Conditionals |
+| **Food Order System** | Menu selection simulation with automated billing. | Dictionaries |
+
+### 🛠️ Productivity & Utilities
+*Tools designed for automation and daily efficiency.*
+
+| Project Name | Description | Key Tech |
+|:---|:---|:---|
+| **Secure Pass Gen** | Generates high-entropy passwords with custom settings. | Security, Random |
+| **Simple Task Manager** | CLI tool for creating and tracking daily to-do lists. | CRUD Operations |
+| **Task Focus Timer** | A Pomodoro-style tool for time management. | Time Module |
+| **ASCII Art Gen** | Converts plain text into stylized visual characters. | String Manipulation |
+| **Voice Logger** |  Audio input handling and data logging system. | Audio Libs |
+
+
+
+---
+*Feel free to explore the code and reach out with any suggestions!*
