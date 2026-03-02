@@ -1,0 +1,25 @@
+# Digital Poll System
+
+A Python-based voting application designed to collect, aggregate, and analyze real-time data. This project demonstrates how to handle dynamic user input and perform data calculations using dictionaries.
+
+## Features
+- **Dynamic Voting**: Users can enter any candidate or option name.
+- **Real-time Aggregation**: Automatically tracks the number of votes for each entry.
+- **Statistical Analysis**: Calculates the percentage of the total vote for every candidate.
+- **Sorted Results**: Displays final standings from highest to lowest vote count.
+
+## Technical Implementation
+| Component | Logic Applied |
+| :--- | :--- |
+| **Data Storage** | Python Dictionaries for unique key-value mapping. |
+| **Input Handling** | String normalization (.strip().title()) to prevent duplicate entries. |
+| **Calculations** | Floating-point math for percentage distribution. |
+| **Sorting** | Lambda functions to sort dictionary items by value. |
+
+## How to Run
+1. Run the script: `python poll_system.py`
+2. Enter the names of candidates you wish to vote for.
+3. Type `results` to close the poll and display the final statistics.
+
+---
+*Part of my Python Logic & Data Processing portfolio.*
