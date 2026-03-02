@@ -9,7 +9,7 @@ Welcome to my project hub! This repository tracks my journey through Python prog
 
 | Project Name | Description | Key Tech |
 |:---|:---|:---|
-|Digital Poll	Real-time voting system with percentage results.	Aggregation
+|Digital Poll	   Real-time voting system with percentage results.	Aggregation
 **Dictionary Calculator** | Smart calculator using mapping instead of long if-else chains. | Python, DRY |
 | **Student Grade Tracker** | Records performance and calculates weighted averages. | Math, Lists |
 | **Word Analyzer** | Deep text analysis to count word frequency and clean punctuation. | Strings, Sorting |
