@@ -1,7 +1,7 @@
-# My Python Portfolio 🚀
 
-Welcome to my project hub! This repository tracks my journey through Python programming, focusing on clean code, efficient data structures, and practical automation.
+# My Portfolio 🚀
 
+---
 ## 📂 Project Categories
 
 ### 🧠 Logic & Data Processing
@@ -9,11 +9,12 @@ Welcome to my project hub! This repository tracks my journey through Python prog
 
 | Project Name | Description | Key Tech |
 |:---|:---|:---|
-|Digital Poll	   Real-time voting system with percentage results.	Aggregation
-**Dictionary Calculator** | Smart calculator using mapping instead of long if-else chains. | Python, DRY |
+| **Digital Poll System** | Real-time voting tracker with percentage calculations. | Data Aggregation |
+| **Dictionary Calculator** | Smart calculator using mapping instead of long if-else chains. | Python, DRY |
 | **Student Grade Tracker** | Records performance and calculates weighted averages. | Math, Lists |
 | **Word Analyzer** | Deep text analysis to count word frequency and clean punctuation. | Strings, Sorting |
-| **Digital Poll System** | Real-time voting tracker with percentage calculations. | Data Aggregation |
+
+---
 
 ### 🎮 Gaming & Simulations
 *Interactive logic and state management.*
@@ -25,6 +26,8 @@ Welcome to my project hub! This repository tracks my journey through Python prog
 | **Guess A Number** | Logic game with difficulty levels and input validation. | Conditionals |
 | **Food Order System** | Menu selection simulation with automated billing. | Dictionaries |
 
+---
+
 ### 🛠️ Productivity & Utilities
 *Tools designed for automation and daily efficiency.*
 
@@ -34,9 +37,6 @@ Welcome to my project hub! This repository tracks my journey through Python prog
 | **Simple Task Manager** | CLI tool for creating and tracking daily to-do lists. | CRUD Operations |
 | **Task Focus Timer** | A Pomodoro-style tool for time management. | Time Module |
 | **ASCII Art Gen** | Converts plain text into stylized visual characters. | String Manipulation |
-| **Voice Logger** |  Audio input handling and data logging system. | Audio Libs |
-
-
+| **Voice Logger** | (Work in progress) Audio input handling and data logging system. | Audio Libs |
 
 ---
-*Feel free to explore the code and reach out with any suggestions!*
