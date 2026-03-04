@@ -48,3 +48,4 @@ Welcome to my project repository. As a Law student specializing in Cybersecurity
 * **Data Management:** Advanced Dictionaries, JSON-like structures, Validation
 * **Tools:** Git/GitHub, VS Code, Linux Terminal
 
+---
