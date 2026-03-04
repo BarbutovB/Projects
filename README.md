@@ -41,14 +41,3 @@ Welcome to my project repository. As a Law student specializing in Cybersecurity
 | **Voice Logger** | *(Work in progress)* Audio input handling and data logging system. | Audio Libs |
 
 ---
-
-## 🛠️ Technical Skills Demonstrated
-* **Languages:** Python 3.x
-* **Security:** Cryptographic logic (XOR), Password entropy
-* **Data Management:** Advanced Dictionaries, JSON-like structures, Validation
-* **Tools:** Git/GitHub, VS Code, Linux Terminal
-
----
-
-## ⚖️ Legal Context
-My technical work is driven by a deep interest in **Data Privacy (GDPR)** and **Digital Forensics**. Each project is a step toward understanding how automated systems can be built to be both efficient and legally compliant.
