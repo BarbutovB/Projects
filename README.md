@@ -38,6 +38,6 @@ Welcome to my project repository. As a Law student specializing in Cybersecurity
 | **Simple Task Manager** | CLI tool for creating and tracking daily to-do lists. | CRUD Operations |
 | **Task Focus Timer** | A Pomodoro-style tool for time management. | Time Module |
 | **ASCII Art Gen** | Converts plain text into stylized visual characters. | String Manipulation |
-| **Voice Logger** | *(Work in progress)* Audio input handling and data logging system. | Audio Libs |
+| **Voice Logger** |  Audio input handling and data logging system. | Audio Libs |
 
 ---
