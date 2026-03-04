@@ -49,3 +49,6 @@ Welcome to my project repository. As a Law student specializing in Cybersecurity
 * **Tools:** Git/GitHub, VS Code, Linux Terminal
 
 ---
+
+## ⚖️ Legal Context
+My technical work is driven by a deep interest in **Data Privacy (GDPR)** and **Digital Forensics**. Each project is a step toward understanding how automated systems can be built to be both efficient and legally compliant.
