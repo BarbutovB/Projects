@@ -39,5 +39,6 @@ Welcome to my project repository. As a Law student specializing in Cybersecurity
 | **Task Focus Timer** | A Pomodoro-style tool for time management. | Time Module |
 | **ASCII Art Gen** | Converts plain text into stylized visual characters. | String Manipulation |
 | **Voice Logger** |  Audio input handling and data logging system. | Audio Libs |
+| **Simple Countdown** | Real-time countdown timer with automated MM:SS formatting. | Time Module, Math |
 
 ---
