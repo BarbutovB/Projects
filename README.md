@@ -32,6 +32,7 @@ Welcome to my project repository. As a Law student specializing in Cybersecurity
 
 | Project Name | Description | Key Tech |
 | :--- | :--- | :--- |
+| **QR Code Creator** | Generates instant QR codes from URLs or text for easy sharing. | **Python, qrcode, PIL** |
 | **Simple Task Manager** | CLI tool for creating and tracking daily to-do lists. | **CRUD Operations** |
 | **Task Focus Timer** | A Pomodoro-style tool for time management. | **Time Module** |
 | **ASCII Art Gen** | Converts plain text into stylized visual characters. | **String Manipulation** |
